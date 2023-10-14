@@ -164,3 +164,6 @@ gpt
 
 # model artifacts
 model_artifacts/*
+
+# logs
+logs/*
