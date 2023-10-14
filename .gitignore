@@ -161,3 +161,6 @@ cython_debug/
 
 # ignore environment
 gpt
+
+# model artifacts
+model_artifacts/*
